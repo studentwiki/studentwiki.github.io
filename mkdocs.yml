@@ -36,6 +36,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+        
 extra:
    social:
      - icon: fontawesome/brands/discord 
@@ -45,6 +46,9 @@ copyright: Copyright &copy; 2024 Community Psychology Students Worldwide
 
 nav: 
   - Home: index.md
+  - About this Wiki: 
+      - Overview: about.md
+      - How to Contribute: contribute.md
 
 
 markdown_extensions:
