@@ -15,6 +15,7 @@ theme:
   - content.tabs.link
   - content.code.annotate
   - content.code.copy
+  - navigation.footer
   language: en
   palette:
 
@@ -35,9 +36,16 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+extra:
+   social:
+     - icon: fontawesome/brands/discord 
+       link: https://discord.gg/DhXS3xFAyk
+       name: Community Psychology Students Discord
+copyright: Copyright &copy; 2024 Community Psychology Students Worldwide
 
 nav: 
   - Home: index.md
+
 
 markdown_extensions:
   - admonition
