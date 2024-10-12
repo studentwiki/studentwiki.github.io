@@ -8,21 +8,14 @@ This is the first & only student-run wiki of **Community Psychology**
 
 ### Some things we consider are:
 
-> the well-being of communities
-
-- (*empowerment, activism, & social justice*)
-
-> how communities shape the well-being of people <---> how people shape the well-being of communities
-
-- (*ecological models, relationships, healing*)
-
-> what people understand about their own well-being & the well-being of their communities
-
-- (*participatory action research methods*)
-
-> how people define and relate to their communities
-
-- (*diversity, marginalisation, cultural humility*)
+- the well-being of communities
+  - (*empowerment, activism, & social justice*)
+- how communities shape the well-being of people <---> how people shape the well-being of communities
+  - (*ecological models, relationships, healing*)
+- what people understand about their own well-being & the well-being of their communities
+  - (*participatory action research methods*)
+- how people define and relate to their communities
+  - (*diversity, marginalisation, cultural humility*)
 
 ### Common ideas that Community Psychologists build upon:
 
@@ -35,6 +28,8 @@ This is the first & only student-run wiki of **Community Psychology**
 - arts-based methodologies
 - social constructivism
 - ecological systems models
+- praxis
+- reflexivity
 
 ### Quick links to learn more
 
