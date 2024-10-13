@@ -20,7 +20,7 @@
 
 ## Method 4: Push changes directly to the site (**Github**)
 
-1. Join us as a [Github](https://github.com/gra3wy/gra3wy.github.io) collaborator and add directly to the website!
+1. Join us as a [Github](https://github.com/studentwiki/studentwiki.github.io) collaborator and add directly to the website!
 2. Contact us on **[Discord](https://discord.gg/DhXS3xFAyk)** or in the **[Github Discussion Board](https://github.com/studentwiki/studentwiki.github.io/discussions)** to initiate the process for joining.
       - We will want to meet with you virtually to confirm that you are human and will use the site appropriately.
       - Any pushed changes will need to be approved and checked for any issues in the code.
