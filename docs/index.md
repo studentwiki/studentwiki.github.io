@@ -17,7 +17,7 @@ This is the first & only student-run wiki of **Community Psychology**.
 
 ### Common Concepts in the Field
 
-(*Click the links to learn more*)
+(*Click on concepts to learn more - links will take you to external sources*)
 
 - [psicología de la liberación](https://www.researchgate.net/publication/279852723_La_Psicologia_de_la_Liberacion_25_anos_despues_de_Martin-Baro_memoria_y_desafios_actuales) / [liberation psychology](https://libpsy.org/welcome/defining-liberation-psychology/)
 - [decolonization](https://psychiatryonline.org/doi/10.1176/appi.ajp-rj.2021.160406) / [descolonización](https://semanariouniversidad.com/suplementos/frantz-fanon-de-la-descolonizacion-al-pensamiento-critico/)
