@@ -25,6 +25,7 @@ build/
 venv/
 env/
 # Add any other virtual environment directories you use
+*.venv/
 
 # Miscellaneous
 .DS_Store
