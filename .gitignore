@@ -19,6 +19,7 @@ build/
 *.log
 *.pot
 *.mo
+*.venv
 
 # Virtual Environment
 venv/
