@@ -20,28 +20,35 @@ theme:
   palette:
 
     # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: blue grey
-      accent: orange
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
+      - media: "(prefers-color-scheme: light)"
+        scheme: default
+        primary: blue grey
+        accent: orange
+        toggle:
+          icon: material/brightness-7
+          name: Switch to dark mode
 
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: blue grey
-      accent: orange
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-        
+      # Palette toggle for dark mode
+      - media: "(prefers-color-scheme: dark)"
+        scheme: slate
+        primary: blue grey
+        accent: orange
+        toggle:
+          icon: material/brightness-4
+          name: Switch to light mode
+ # icon:
+    #tag:
+    #  teach: bootstrap/backpack2
+
 extra:
-   social:
+  tags:
+    Teaching: teach
+    Student Empowerment: empower
+  social:
      - icon: fontawesome/brands/discord 
        link: https://discord.gg/DhXS3xFAyk
        name: Community Psychology Students Discord
+  
 copyright: Copyright &copy; 2024 Community Psychology Students Worldwide
 
 nav: 
@@ -49,7 +56,16 @@ nav:
   - About this Wiki: 
       - Overview: about.md
       - How to Contribute: contribute.md
-
+      #- Tags: Extras/tags.md
+  - Student Power:
+      - Student Organising & Unions: Student-Power/student-organising.md
+      - Grad School Statistics: Student-Power/student-stats.md
+  - Teaching:
+      - Graduate Student Instructors: Teaching/gradinstructors.md
+      - Critical Educational Praxis: Teaching/critical-ed-praxis.md
+      - Attacks on DEI in Higher Education: Teaching/attacks-dei-higher-ed.md
+      - Resources: Teaching/teaching.md
+  - Free Library: library.md
 
 markdown_extensions:
   - admonition
@@ -57,3 +73,13 @@ markdown_extensions:
   - pymdownx.superfences
   - toc:
       permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+
+plugins:
+  - tags:
+      tags_file: Extras/tags.md
