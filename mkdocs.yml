@@ -1,6 +1,6 @@
 site_name: Community Psychology Student Wiki
-site_url: https://gra3wy.github.io/
-repo_url: https://github.com/gra3wy/gra3wy.github.io
+site_url: https://studentwiki.github.io/
+repo_url: https://github.com/studentwiki/studentwiki.github.io
 site_dir: 'site'
 theme:
   name: material

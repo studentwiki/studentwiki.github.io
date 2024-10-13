@@ -43,4 +43,4 @@ This is the first & only student-run wiki of **Community Psychology**.
 
 ## Can I contribute to this wiki?
 
-**Yes!** Check out our [contribution page](https://gra3wy.github.io/contribute/) to learn how!
+**Yes!** Check out our [contribution page](https://studentwiki.github.io/contribute/) to learn how!
