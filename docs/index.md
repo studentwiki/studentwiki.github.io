@@ -2,9 +2,13 @@
 
 This is the first & only student-run wiki of **Community Psychology**.
 
+___
+
 ## What is Community Psychology?
 
-> Community Psychologists consider how communities impact the well-being of people.
+*Community Psychologists consider how communities impact the well-being of people.*
+
+___
 
 ### Approaches to the Field
 
@@ -40,6 +44,8 @@ This is the first & only student-run wiki of **Community Psychology**.
 | 1. Read more at the Society for Community Research and Action (SCRA)'s informational website: | [CommunityPsychology.com](https://www.communitypsychology.com/what-is-community-psychology/) | |
 | 2. Access a free, online book introducing the field by Leonard A. Jason; Olya Glantsman; Jack F. O'Brien; and Kaitlyn N. Ramian (Editors): | *[Introduction to Community Psychology: Becoming an Agent of Change](https://press.rebus.community/introductiontocommunitypsychology/)* (Book) |
 | 3. Get updates on conferences, job postings, and networking opportunities with other students and professionals of community psychology in SCRA (Division 27): | [scra27.org](https://scra27.org/) |
+
+___
 
 ## Can I contribute to this wiki?
 

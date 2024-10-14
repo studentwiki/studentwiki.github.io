@@ -1,18 +1,15 @@
 ---
 tags:
     - Student Empowerment
+    - Diversity, Equity, Inclusion
 ---
 
 # Statistics About Graduate School
 
-## Graduate Student Mental Health
-
 ## Graduate Student Attrition (Demographics)
 
-## Graduate Students who remain in Higher Education
+## Post-graduates who remain in Higher Education
 
 ## Faculty Demographics
-
-# Statistics About Research
 
 ## Published Authors (Demographics)

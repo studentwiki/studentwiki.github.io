@@ -36,14 +36,23 @@ theme:
         toggle:
           icon: material/brightness-4
           name: Switch to light mode
- # icon:
-    #tag:
-    #  teach: bootstrap/backpack2
+  icon:
+    tag:
+      teach: fontawesome/solid/person-chalkboard
+      empower: fontawesome/solid/hand-fist
+      dei: fontawesome/solid/rainbow
+      mh: fontawesome/solid/dove
+      access: octicons/accessibility-inset-16
+      action: fontawesome/solid/bullhorn
 
 extra:
   tags:
     Teaching: teach
     Student Empowerment: empower
+    Diversity, Equity, Inclusion: dei
+    Accessibility: access
+    Mental Health: mh
+    Call to Action: action
   social:
      - icon: fontawesome/brands/discord 
        link: https://discord.gg/DhXS3xFAyk
@@ -59,7 +68,9 @@ nav:
       #- Tags: Extras/tags.md
   - Student Power:
       - Student Organising & Unions: Student-Power/student-organising.md
-      - Grad School Statistics: Student-Power/student-stats.md
+      - Grad School Demographics: Student-Power/student-stats.md
+      - Accessibility & Ableism: Student-Power/student-accessibility.md
+      - Mental Health: Student-Power/student-mh.md
   - Teaching:
       - Graduate Student Instructors: Teaching/gradinstructors.md
       - Critical Educational Praxis: Teaching/critical-ed-praxis.md
@@ -73,12 +84,13 @@ markdown_extensions:
   - pymdownx.superfences
   - toc:
       permalink: true
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-      options:
-        custom_icons:
-          - overrides/.icons
+  - tables
+  #- pymdownx.emoji:
+   #   emoji_index: !!python/name:material.extensions.emoji.twemoji
+    #  emoji_generator: !!python/name:material.extensions.emoji.to_svg
+     # options:
+      #  custom_icons:
+       #   - overrides/.icons
 
 plugins:
   - tags:
