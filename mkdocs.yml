@@ -95,4 +95,4 @@ markdown_extensions:
 plugins:
   - tags:
       tags_file: Extras/tags.md
-  - optimize
+ # - optimize
