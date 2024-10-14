@@ -36,6 +36,7 @@ bootstrap/
 # Miscellaneous
 .DS_Store
 Thumbs.db
+.cache
 
 # IDE/Editor specific files
 .idea/
