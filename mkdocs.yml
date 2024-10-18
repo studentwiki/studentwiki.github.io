@@ -85,6 +85,7 @@ markdown_extensions:
   - toc:
       permalink: true
   - tables
+  - attr_list
   #- pymdownx.emoji:
    #   emoji_index: !!python/name:material.extensions.emoji.twemoji
     #  emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -95,7 +96,6 @@ markdown_extensions:
 plugins:
   - tags:
       tags_file: Extras/tags.md
-  - privacy:
-      links_attr_map:
-        target: _blank
+  - privacy
   - search
+  - open-in-new-tab
