@@ -97,4 +97,5 @@ plugins:
       tags_file: Extras/tags.md
   - privacy:
       links_attr_map:
-      target: _blank
+        target: _blank
+  - search
