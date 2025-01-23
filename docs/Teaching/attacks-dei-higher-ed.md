@@ -5,4 +5,6 @@ tags:
     - Call to Action
 ---
 
+# [_Coming Soon_]
+
 # Attacks on Diversity, Equity, Inclusion in Higher Education

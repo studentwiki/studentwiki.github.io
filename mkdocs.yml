@@ -44,6 +44,7 @@ theme:
       mh: fontawesome/solid/dove
       access: octicons/accessibility-inset-16
       action: fontawesome/solid/bullhorn
+      resource: fontawesome/solid/toolbox
 
 extra:
   tags:
@@ -53,6 +54,7 @@ extra:
     Accessibility: access
     Mental Health: mh
     Call to Action: action
+    Resources: resource
   social:
      - icon: fontawesome/brands/discord 
        link: https://discord.gg/DhXS3xFAyk
@@ -67,15 +69,15 @@ nav:
       - How to Contribute: contribute.md
       #- Tags: Extras/tags.md
   - Student Power:
-      - Student Organising & Unions: Student-Power/student-organising.md
       - Grad School Demographics: Student-Power/student-stats.md
+      - Student Organising & Unions: Student-Power/student-organising.md
       - Accessibility & Ableism: Student-Power/student-accessibility.md
       - Mental Health: Student-Power/student-mh.md
   - Teaching:
       - Graduate Student Instructors: Teaching/gradinstructors.md
       - Critical Educational Praxis: Teaching/critical-ed-praxis.md
       - Attacks on DEI in Higher Education: Teaching/attacks-dei-higher-ed.md
-      - Resources: Teaching/teaching.md
+      #- Resources: Teaching/teaching.md
   - Free Library: library.md
 
 markdown_extensions:

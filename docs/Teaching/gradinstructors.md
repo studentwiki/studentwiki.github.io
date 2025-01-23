@@ -1,7 +1,11 @@
 ---
 tags:
     - Teaching
+    - Diversity, Equity, Inclusion
+    - Resources
 ---
+
+_Please [contribute](https://studentwiki.github.io/contribute/)! This page is incomplete and only reflects English, US-based resources at the moment._
 
 # Graduate Student Instructor Resources
 
