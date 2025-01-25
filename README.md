@@ -10,7 +10,7 @@ A wiki for community psychology resources, geared towards students and intereste
 ## Method 2: Share in **Github Discussions**
 
 1. You can share your ideas or resources in our **[Github Discussion Board](https://github.com/studentwiki/studentwiki.github.io/discussions/categories/ideas)**.
-      - The time frame for migrating suggestions, or responding to them (in case of a problem), is 72 hours to 1 week.
+      - The time frame for migrating suggestions, or responding to them (in case of a problem), may vary.
 
 ## Method 3: Craft a page in our **Github-wiki** space
 

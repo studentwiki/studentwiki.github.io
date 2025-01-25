@@ -60,7 +60,7 @@ extra:
        link: https://discord.gg/DhXS3xFAyk
        name: Community Psychology Students Discord
   
-copyright: Copyright &copy; 2024 Community Psychology Students Worldwide
+copyright: Copyright &copy; 2025 Community Psychology Students Worldwide
 
 nav: 
   - Home: index.md
@@ -70,30 +70,40 @@ nav:
       #- Tags: Extras/tags.md
   - Student Power:
       - Grad School Demographics: Student-Power/student-stats.md
-      - Student Organising & Unions: Student-Power/student-organising.md
-      - Accessibility & Ableism: Student-Power/student-accessibility.md
-      - Mental Health: Student-Power/student-mh.md
+      #- Student Organising & Unions: Student-Power/student-organising.md
+      #- Accessibility & Ableism: Student-Power/student-accessibility.md
+      #- Mental Health: Student-Power/student-mh.md
   - Teaching:
       - Graduate Student Instructors: Teaching/gradinstructors.md
-      - Critical Educational Praxis: Teaching/critical-ed-praxis.md
-      - Attacks on DEI in Higher Education: Teaching/attacks-dei-higher-ed.md
+      - Resistance to Censorship: Teaching/attacks-dei-higher-ed.md
+      #- Critical Educational Praxis: Teaching/critical-ed-praxis.md
       #- Resources: Teaching/teaching.md
   - Free Library: library.md
 
 markdown_extensions:
   - admonition
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
   - pymdownx.details
   - pymdownx.superfences
   - toc:
       permalink: true
   - tables
   - attr_list
-  #- pymdownx.emoji:
-   #   emoji_index: !!python/name:material.extensions.emoji.twemoji
-    #  emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
      # options:
       #  custom_icons:
        #   - overrides/.icons
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
 
 plugins:
   - tags:

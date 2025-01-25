@@ -6,7 +6,9 @@ tags:
 
 # Statistics About Graduate School
 
-_Please [contribute](https://studentwiki.github.io/contribute/)! This page is incomplete and only reflects US stats at the moment._
+!!! info "Content Limitation"
+
+    This page is incomplete and only reflects English, US-based resources at the moment. Please [contribute! :material-open-in-new:](https://studentwiki.github.io/contribute/)
 
 ## The U.S. Population & Graduate Completions
 
