@@ -29,6 +29,7 @@ node-v*
 my_node_env/
 node_modules/
 bootstrap/
+wikienv/
 
 # Add any other virtual environment directories you use
 *.venv/
