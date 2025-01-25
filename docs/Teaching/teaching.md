@@ -1,6 +1,6 @@
 ---
 tags:
-    - Teaching
+    #- Teaching
 ---
 
 # Teaching Resources

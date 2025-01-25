@@ -8,7 +8,7 @@
 
 ==}
 
-### Approaches to the Field
+## Approaches to the Field
 
 _The study or application of:_
 
@@ -32,7 +32,7 @@ _The study or application of:_
     - [x] marginalization
 </div>
 
-### Common Concepts in the Field
+## Common Concepts in the Field
 
 (*Click on concepts to learn more - links will open external sources in a new tab :material-open-in-new:*)
 
@@ -52,7 +52,7 @@ _The study or application of:_
 
 ___
 
-### Quick links to learn more
+## Quick links to learn more
 
 | Resource | Link |
 |---|---|
@@ -64,7 +64,7 @@ ___
 
 {==
 
-## Can I contribute to this wiki?
+## Can I contribute content to this wiki?
 
 **Yes!** Check out our [**contribution page** :material-open-in-new:](https://studentwiki.github.io/contribute/) to learn how!
 
