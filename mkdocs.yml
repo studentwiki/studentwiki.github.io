@@ -80,6 +80,7 @@ nav:
       #- Critical Educational Praxis: Teaching/critical-ed-praxis.md
       #- Resources: Teaching/teaching.md
   - Free Library: library.md
+  - Map of Programs: map.md
 
 markdown_extensions:
   - admonition
