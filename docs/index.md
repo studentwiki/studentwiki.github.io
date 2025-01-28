@@ -23,7 +23,7 @@
     - **what people understand about their own well-being** & **the well-being of their communities**
         - [x] participatory & community-based action research
         - [x] cultural humility
-    - **how communities shape the well-being of people** <-> **how people shape the well-being of communities**
+    - **how communities shape the well-being of people** <--> **how people shape the well-being of communities**
         - [x] ecological models
         - [x] relationships
         - [x] healing
