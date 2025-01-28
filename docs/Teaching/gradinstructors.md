@@ -53,3 +53,5 @@ tags:
     | [**Tea for Teaching Podcast** :material-open-in-new:](https://teaforteaching.com/episodes/)          | John Kane & Rebecca Mushtare   | This podcast is a series of informal discussions of innovative and effective practices in teaching and learning.                                                                                     |
     | [**Teaching in Higher Ed Podcast** :material-open-in-new:](https://teachinginhighered.com/episodes/) | Teaching in Higher Ed          | Podcast on digitial pedagogy, students, work/life, and teaching.                                                                                                                                     |
     | [**The Diversity Style Guide** :material-open-in-new:](https://www.diversitystyleguide.com/)         | San Francisco State University | The guide contains more than 700 terms related to race/ethnicity, disability, immigration, sexuality and gender identity, drugs and alcohol, and geography. You can browse by letter or by category. |
+
+___

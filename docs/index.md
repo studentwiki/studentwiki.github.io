@@ -1,4 +1,4 @@
-# Welcome to Community Psychology Student Wiki
+# Welcome Community Psychology Students!
 
 {==
 
@@ -118,3 +118,5 @@
 **Yes!** Check out our [**contribution page** :material-open-in-new:](https://studentwiki.github.io/contribute/) to learn how!
 
 ==}
+
+___

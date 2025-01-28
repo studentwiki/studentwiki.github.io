@@ -119,3 +119,7 @@ plugins:
   - privacy
   - search
   - open-in-new-tab
+  - glightbox
+  - git-revision-date:
+      modify_md: true
+      as_datetime: false

@@ -12,3 +12,5 @@ tags:
 ## Library Preview
 
 ![Community Psychology Zotero Library](../images/Community-psych-zotero.png)
+
+___
