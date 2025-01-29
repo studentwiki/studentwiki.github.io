@@ -5,7 +5,7 @@ tags:
 
 # Community Psychology & Research Graduate Programs
 
-!!! info "How to Use this Map"
+!!! tip "How to Use this Map"
 
     - Click on the **sidebar icon**  :octicons-sidebar-collapse-16:  to sort by institution & degree.
 

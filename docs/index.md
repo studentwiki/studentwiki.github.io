@@ -8,7 +8,7 @@
 
 ==}
 
-=== "Approaches to the Field"
+=== "Approaches"
 
     ## Approaches to the Field
 
@@ -54,7 +54,7 @@
     - [praxis](https://sk.sagepub.com/reference/curriculumstudies/n90.xml)
     - [reflexivity](https://open.oregonstate.education/qualresearchmethods/chapter/ch-6-reflexivity/)
 
-=== "Quick Links to Learn More"
+=== "Quick Links"
 
     ## Quick links to learn more
 

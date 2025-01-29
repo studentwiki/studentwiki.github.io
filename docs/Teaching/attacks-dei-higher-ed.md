@@ -15,7 +15,7 @@ tags:
 
     This page is incomplete and only reflects English, US-based resources at the moment. Please [contribute! :material-open-in-new:](https://studentwiki.github.io/contribute/)
 
-=== "Legislation Maps"
+=== "Legislation Maps :map:"
 
     ## **Legislation Maps**
 
