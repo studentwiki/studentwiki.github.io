@@ -70,6 +70,7 @@ nav:
       #- Tags: Extras/tags.md
   - Student Power:
       - Grad Student Demographics: Student-Power/student-stats.md
+      - SCRA Student Publications: Student-Power/SCRA-student-reps.md
       #- Grad Faculty Demographics: Student-Power/faculty-stats.md
       #- Student Organising & Unions: Student-Power/student-organising.md
       #- Accessibility & Ableism: Student-Power/student-accessibility.md
@@ -114,8 +115,11 @@ markdown_extensions:
       #  custom_icons:
        #   - overrides/.icons
   - def_list
-
-
+ # - pymdownx.pathconverter:
+      #base_path: 'gra3wy.github.io' # default: ''
+      #relative_path: '' # default ''
+      #absolute: true # default: false
+      #tags: 'a script img link object embed'
 plugins:
   - tags:
       tags_file: Extras/tags.md
@@ -126,3 +130,4 @@ plugins:
   - git-revision-date:
       modify_md: true
       as_datetime: false
+  - mkdocs-pdf
