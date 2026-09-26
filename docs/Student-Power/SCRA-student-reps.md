@@ -14,10 +14,10 @@ tags:
 
 ### SCRA Student Membership Report (February 2026)
 
-<embed src="../pdfs/SCRA-Student-Membership-Report-20260212.pdf#navpanes=0&toolbar=0" type="application/pdf" width="100%" height=800>
+<embed src="\pdfs\SCRA-Student-Membership-Report-20260212.pdf" type="application/pdf" width="100%" height=800>
 
 ## 2025:
 
 ### Student Reps Call on Community Psychologists to Dissent, and "Face the Shit" (June 2025)
 
-<embed src="../pdfs/SCRA-SR-Statement_June-9-2025_FINAL.pdf#navpanes=0&toolbar=0" type="application/pdf" width="100%" height=800>
+<embed src="\pdfs\SCRA-SR-Statement_June-9-2025_FINAL.pdf" type="application/pdf" width="100%" height=800>
